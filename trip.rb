@@ -15,4 +15,4 @@ puts " how many nights are you staying"
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts "Hi, would you like to stay at#{stay}
+puts "Hi, would you like to stay at#{stay}"
