@@ -1,4 +1,7 @@
-## User Input Mini App
+puts "what is your name"
+
+user = gets.strip 
+puts "Hello #{user}"
 Now that we know about gets-ing and puts-ing, let's build a simple input/output app. The main objective is to create an application that _takes in user input, does something with that input, and then prints out an output_.
 
 ### Gets
